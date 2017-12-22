@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbb28eec094beff46bcd6005b8c96f6c
+labels:
+- Audio
+timeCreated: 1466534796
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

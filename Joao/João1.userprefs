@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="João1.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Arquivos\txt.js">
+    <Files>
+      <File FileName="Assets\Script\Camera\TremerCamera.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\PlayerAnimation.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\AtivarBlur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Objetos\GeraFumaca.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\AlvoController1Portas.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\AlvoController1.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Arquivos\txt.js" Line="39" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

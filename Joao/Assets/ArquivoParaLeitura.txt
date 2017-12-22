@@ -1,0 +1,282 @@
+Pergunta: Você está em uma festa com seu pai. Seu pai te oferece bebida alcoólica. O que você faria?
+47
+Alternativa A: Aceito, porque ele é meu pai!
+Alternativa B: Não aceito, porque crianças não podem beber!
+Alternativa C: Aceito, porque gosto!
+B
+Pergunta: Se o seu pai bate em sua mãe, o que você deveria fazer?
+46
+Alternativa A: Tentar bater nele.
+Alternativa B: Não fazer nada.
+Alternativa C: Chamar a polícia(190)
+C
+Pergunta: O que são drogas psicotrópicas?
+45
+Alternativa A: Substancia química que age principalmente no sistema nervoso central.
+Alternativa B: Substância orgânica que dá sono.
+Alternativa C: Remédios utilizados para dor de cabeça.
+A
+Pergunta: O que são drogas ilícitas?
+44
+Alternativa A: Drogas permitidas por lei
+Alternativa B: Substancia química proibida por lei
+Alternativa C: Substancia distribuída pela governo
+B
+Pergunta: Necessidade do consumo de repetidas doses da droga para sentir-se bem:
+43
+Alternativa A: Dependência
+Alternativa B: Abstinência
+Alternativa C: Overdose
+A
+Pergunta: Um rapaz bebeu “além da conta” e quer dirigir para casa. O que seria mais adequado fazer?
+42
+Alternativa A: Deixar ele ir dirigindo
+Alternativa B: Pegar carona com ele 
+Alternativa C: Sugerir que pegue um táxi.
+C
+Pergunta: O que é ser uma pessoa alcoólatra?
+41
+Alternativa A: Ser uma pessoa que gosta de beber.
+Alternativa B: Ser uma pessoa que bebe sempre e perde o controle.
+Alternativa C: Ser uma pessoa que gosta de álcool.
+B
+Pergunta: O que é CIRROSE ALCOOLICA?
+40
+Alternativa A: Como se bebe álcool.
+Alternativa B: Uma doença nos rins, que causa a morte.
+Alternativa C: Uma doença no fígado causada pelo álcool.
+C
+Pergunta: O que é CIUME ALCOOLICO?
+39
+Alternativa A: Transtorno causado pelo álcool, que faz a pessoa pensar que seu parceiro eh infiel.
+Alternativa B: Ter ciúmes da bebida.
+Alternativa C: Um ciúme inocente do parceiro.
+A
+Pergunta: O que é COMPULSAO?
+38
+Alternativa A: Amar muito uma pessoa.
+Alternativa B: Querer comprar muitas roupas.
+Alternativa C: Necessidade poderosa de consumir uma substancia.
+C
+Pergunta: O que acontece se você tiver uma convulsão devido ao uso de drogas ou álcool?
+37
+Alternativa A: Pode haver danos cerebrais.
+Alternativa B: Perda de consciência, rigidez muscular e movimentos involuntários.
+Alternativa C: Todas alternativas.
+C
+Pergunta: O que acontece se você tiver uma convulsão devido ao uso de drogas ou álcool?
+36
+Alternativa A: Pode haver danos cerebrais.
+Alternativa B: Perda de consciência, rigidez muscular e movimentos involuntários.
+Alternativa C: Todas alternativas.
+C
+Pergunta: O que é delírio?
+35
+Alternativa A: Perturbações na consciência, atenção, orientação, pensamento e memória.
+Alternativa B: Perder a memória.
+Alternativa C: Todas alternativas.
+A
+Pergunta: O que pode acontecer se alguém dirigir bêbado?
+34
+Alternativa A: Essa pessoa pode provocar acidentes e acabar levando alguém a morte.
+Alternativa B: Nada, a lei até permiti dirigir bêbado.
+Alternativa C: Se ela sabe dirigir bem não tem problema.
+A
+Pergunta: O que são os grupos de autoajuda?
+33
+Alternativa A: Grupos que ajudam pessoas carentes.
+Alternativa B: Grupos que ensinam técnicas de autocontrole.
+Alternativa C: Grupos que ensinam a ler.
+B
+Pergunta: O que é hepatite alcoólica?
+32
+Alternativa A: Doença do álcool.
+Alternativa B: É saber apreciar álcool.
+Alternativa C: Inflamação no fígado, causado pelo álcool.
+C
+Pergunta: O que é DROGA?
+31
+Alternativa A: Substancia que auxilia no desenvolvimento.
+Alternativa B: Substância capaz de modificar a função dos organismos vivos.
+Alternativa C: Substancia que ajuda no crescimento de cabelo.
+B
+Pergunta: O que são drogas DEPRESSORAS do sistema nervoso central?
+30
+Alternativa A: Drogas que diminuem a atividade mental.
+Alternativa B: Drogas que aumentam a atividade mental.
+Alternativa C: Drogas legais no brasil.
+A
+Pergunta: O que são drogas ESTIMULANTES do sistema nervoso central?
+29
+Alternativa A: Drogas legalizadas no Brasil e no mundo.
+Alternativa B: Drogas que aumentam a atividade mental.
+Alternativa C: Drogas que não tem efeitos.
+A
+Pergunta: O que são drogas PERTURBADORAS do sistema nervoso central?
+28
+Alternativa A: Drogas que diminuem a atividade mental.
+Alternativa B: Drogas que aumentam a atividade mental.
+Alternativa C: Drogas que provocam distúrbios no funcionamento do cérebro.
+C
+Pergunta: Qual a classificação das drogas mais conhecidas em relação aos seus efeitos no cérebro?
+27
+Alternativa A: Depressoras, estimulantes e perturbadoras.
+Alternativa B: Estimulantes, amargas e perturbadoras.
+Alternativa C: Depressoras, estimulantes e doces.
+A
+Pergunta: O que é compulsão para o consumo de drogas ou “fissura”?
+26
+Alternativa A: Desejo de não consumir drogas.
+Alternativa B: Desejo incontrolável de consumir a substância.
+Alternativa C: Desejo controlável de consumir a substância.
+B
+Pergunta: O que é tolerância à droga?
+25
+Alternativa A: Necessidade de doses cada vez maiores de drogas.
+Alternativa B: Necessidade de doses idênticas de drogas.
+Alternativa C: Vontade de não usar drogas.
+A
+Pergunta: O que é síndrome de abstinência? 
+24
+Alternativa A: Sinais e sintomas físicos quando reduzido o consumo de drogas.
+Alternativa B: Vontade de buscar ajuda.
+Alternativa C: Sinais para aumentar o uso de drogas.
+A
+Pergunta: Por que as pessoas fazem uso ou experimentam drogas que trazem prejuízos a sua saúde?
+23
+Alternativa A: Sintomas fisícos.
+Alternativa B: Busca pelo prazer ou a fuga de seus problemas.
+Alternativa C: Sinais gerados pelo próprio corpo.
+B
+Pergunta: Quais são alguns dos efeitos do uso indevido do álcool?
+22
+Alternativa A: Sono e desiquilíbrio.
+Alternativa B: Pessoa mais atenta e humor estável 
+Alternativa C: Auxilia na saúde e evita doenças no fígado.
+A
+Pergunta: Quais os efeitos do uso da Maconha (THC)?
+21
+Alternativa A: Facilidade em resolver problemas
+Alternativa B: Câncer e morte.
+Alternativa C: Evitas doenças pulmonares.
+B
+Pergunta: Fator de risco para o uso indevido de drogas?
+20
+Alternativa A: Ajuda de professores.
+Alternativa B: Conversa com familiares.
+Alternativa C: Influência de grupo.
+C
+Pergunta: Programa do governo federal para dependentes químicos?
+19
+Alternativa A: SUS (Sistema único de saúde).
+Alternativa B: Enem (Exame nacional do ensino médio).
+Alternativa C: CAPS-AD (Centros de Atendimento Psicossociais Álcool e Drogas).
+C
+Pergunta: Programa Educacional de Resistência a drogas e a violência, mais conhecido como?
+18
+Alternativa A: PROERD.
+Alternativa B: Bolsa família.
+Alternativa C: PRONATEC.
+A
+Pergunta: Qual a duração dos efeitos da maconha?
+17
+Alternativa A: 2 a 4 horas.
+Alternativa B: 5 a 10 minutos.
+Alternativa C: Média de 1 minuto.
+A
+Pergunta: O que é tráfico de drogas?
+16
+Alternativa A: Venda de drogas autorizadas.
+Alternativa B: Comércio ilegal de drogas ilícitas.
+Alternativa C: Programa para legalização de drogas.
+B
+Pergunta: Todas as drogas são ilegais (Proibidas por lei)?
+15
+Alternativa A: Não, existem muitas drogas legalizadas.
+Alternativa B: Sim, todas as drogas são proibidas por lei.
+Alternativa C: Todas as drogas são permitidas, de acordo com a lei.
+A
+Pergunta: Selecione as alternativas que contenha apenas drogas autorizadas pela lei?
+14
+Alternativa A: Cocaína, maconha, ecstasy e heroína.
+Alternativa B: Bebidas alcoólicas e cigarro.
+Alternativa C: Cocaína, maconha, ecstasy, bebidas alcoólicas e cigarro.
+B
+Pergunta: Se a droga é permitida pela lei, quer dizer que ela é boa?
+13
+Alternativa A: Sim, se é permitido não tem prejuízos usa-la.
+Alternativa B: Não, todas as drogas fazem mal.
+Alternativa C: Não, todas as drogas fazem mal, exceto os remédios quando são necessários.
+C
+Pergunta: Se meu amigo ao usar droga não sofreu o efeito dela, quer dizer que também não vou sentir?
+12
+Alternativa A: Não, os efeitos são variados de pessoa para pessoa.
+Alternativa B: Sim, você vai sentir o mesmo que seu amigo.
+Alternativa C: Nem vou passar mal sou forte.
+A
+Pergunta: Quais são os fatores que mais influenciam no efeito das drogas? 
+11
+Alternativa A: Nenhum, são todas iguais.
+Alternativa B: O tipo de droga, o usuário e o ambiente.
+Alternativa C: Apenas o tipo de droga.
+B
+Pergunta: O estado emocional do usuário também interfere no efeito da droga? 
+10
+Alternativa A: Logico que não.
+Alternativa B: Não, desde que a pessoa esteja de “boa”.
+Alternativa C: Sim, o estado emocional pode influenciar no efeito.
+C
+Pergunta: Quais são alguns problemas que a droga pode trazer? 
+9
+Alternativa A: Violência, acidentes, AIDS e destruir famílias.
+Alternativa B: Nenhum, a droga só traz coisa boa.
+Alternativa C: Depende da pessoa, em mim ela não vai interferir em nada.
+A
+Pergunta: O uso da maconha é maior em:
+8
+Alternativa A: Escolas particulares.
+Alternativa B: Escolas públicas.
+Alternativa C: É igual em ambas.
+B
+Pergunta: A maconha é completamente maléfica?
+7
+Alternativa A: Sim, ela não traz nada de bom.
+Alternativa B: Não, ela não tem nada de ruim.
+Alternativa C: Não, ela pode ser usada para muitas coisas NÃO PREJUDICIAIS.
+C
+Pergunta: Os efeitos da maconha são sempre: relaxar, falar bastante e rir à toa?
+6
+Alternativa A: Não, ela também pode causar: ansiedade, amedrontamento e confusão.
+Alternativa B: Sim, ela não causa nenhum efeito maléfico.
+Alternativa C: Sim, ela só faz você se soltar.
+A
+Pergunta: Em grande quantidade, o que a maconha pode provocar?
+5
+Alternativa A: Nada.
+Alternativa B: Alucinações, pânico e paranoia.
+Alternativa C: Só uma sensação de estar relaxado.
+B
+Pergunta: O que uma pessoa, sob o efeito da maconha, não pode fazer?
+4
+Alternativa A: Pode fazer de tudo.
+Alternativa B: Só não pode dirigir.
+Alternativa C: Dirigir, nadar, caminhar em rua movimentada, operar maquinas perigosas, etc.
+C
+Pergunta: Quais são os efeitos MAIS BRANDOS da cocaína?
+3
+A: Sensação de alerta e faz com que as pessoas se sintam cheios de energia, sociáveis, confiantes e controlados.
+B: A morte.
+C: Apenas prazer.
+A
+Pergunta: Quais são os riscos da maconha?
+2
+Alternativa A: Nenhum, ela só tem benefícios.
+Alternativa B: Overdose, depressão e morte.
+Alternativa C: Apenas prazer e euforia.
+B
+Pergunta: Cocaína pode causar dependência?
+1
+Alternativa A: Não, ela não torna a pessoa viciada.
+Alternativa B: Depende da pessoa.
+Alternativa C: Sim, podendo levar até a depressão.
+C
